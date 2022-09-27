@@ -9,7 +9,7 @@ Npoint: https://api.npoint.io/99c279bb173a6e28359c/data
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=muhammaddfaris&icon=0&color=0)](https://visitcount.itsvg.in)
+
 API By Bhacors https://github.com/bachors/Al-Quran-ID-API
 <br>
 Daftar API Lokal Indonesia
